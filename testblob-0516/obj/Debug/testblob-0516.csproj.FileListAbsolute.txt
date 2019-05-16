@@ -1,0 +1,17 @@
+D:\source\testblob-0516\testblob-0516\obj\Debug\testblob-0516.csprojAssemblyReference.cache
+D:\source\testblob-0516\testblob-0516\obj\Debug\testblob-0516.csproj.CoreCompileInputs.cache
+D:\source\testblob-0516\testblob-0516\bin\Debug\testblob-0516.exe.config
+D:\source\testblob-0516\testblob-0516\bin\Debug\testblob-0516.exe
+D:\source\testblob-0516\testblob-0516\bin\Debug\testblob-0516.pdb
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\source\testblob-0516\testblob-0516\bin\Debug\Newtonsoft.Json.dll
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\source\testblob-0516\testblob-0516\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\source\testblob-0516\testblob-0516\bin\Debug\Newtonsoft.Json.xml
+D:\source\testblob-0516\testblob-0516\obj\Debug\testblob-0516.csproj.CopyComplete
+D:\source\testblob-0516\testblob-0516\obj\Debug\testblob-0516.exe
+D:\source\testblob-0516\testblob-0516\obj\Debug\testblob-0516.pdb
