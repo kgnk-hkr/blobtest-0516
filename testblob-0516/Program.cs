@@ -15,7 +15,7 @@ namespace testblob_0516
         {
             /*
             //アカウントキーはアクセスキーの管理より確認
-            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=storageblob0513;AccountKey=k1+MjmZyTmfKKD2ViDMSCpEarDlxuVZ/0Hmf/0nBaH2Z0Ao11KGZwxTLwDGuR8R7PaOWaBYPAGs2LLYg5PMhiQ==");
+            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("アカウントキー");
 
             CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
 
